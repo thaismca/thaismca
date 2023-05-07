@@ -1,15 +1,13 @@
 # 💫 About Me:
 
-Software Engineer with a  keen eye for detail, problem-solving acumen, and broad background that facilitates the approach, understanding, and resolution of problems from different aspects.<br><br>Throughout my career, I've deepened my knowledge of the software development life cycle, participating in projects for sectors such as Financial, Public, Educational, and Entertainment. I got to perform different roles, each providing a distinct perspective. Lately, I've been putting my coding skills to use on personal and collaborative projects, and investing time in practicing JavaScript and Python, for I am currently interested in transitioning to a software development role.<br><br>I love learning from others, so feel free to send feedback on my projects. I'd appreciate having this resource to use as a basis for improvement.
+Software Engineer with a  keen eye for detail, problem-solving acumen, and broad background that facilitates the approach, understanding, and resolution of problems from different aspects.<br><br>Throughout my career, I've deepened my knowledge of the software development life cycle, participating in projects for sectors such as Financial, Public, Educational, and Entertainment. I got to perform different roles, each providing a distinct perspective. Lately, I've been putting my coding skills to use on personal and collaborative projects, using JavaScript (React/Node) and Python.<br><br>I love learning from others, so feel free to send feedback on my projects. I'd appreciate having this resource to use as a basis for improvement.
 
 - 🔭 I’m currently working on my personal portfolio
-- 🌱 I’m currently learning Python, React, Node, TypeScript
+- 🌱 I’m currently deepening my knowledge of Python, React, Node and learning TypeScript
 - 👯 I’m looking to collaborate on web projects as a backend developer
-- 🤔 I’m looking for help with transitioning to a Software Engineering role
-- 💬 Ask me about Project Requirements Documentation and Testing Documentation
-- 📫 How to reach me: thaismca.bio@gmail.com
+- 💬 Ask me about Project Requirements and Testing Documentation
+- 📫 How to reach me: thais@justwebdevelopers.com
 - ⚡ Fun fact: I'm also a Biologist and Marathoner, so any projects involving these two themes have a special place in my heart
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaismca) 
